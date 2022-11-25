@@ -1,4 +1,4 @@
-### Welcome! 
+### Welcome! :wave:
 
 Here you will find links to my published software programs and those that are currently in development (all in Stata). For more about me you can visit my [personal website](https://ryanthombs.com/) that has links to my published research and CV.
 
