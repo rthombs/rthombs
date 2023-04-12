@@ -14,5 +14,4 @@ Here you will find links to my published software programs and those that are cu
 ## :hammer_and_pick: In the Works :hammer_and_pick:
 |Package|% Complete|Description|
 | :---: |  :---:  | ----- |
-| `xtfelr` | ![Version](https://img.shields.io/badge/-80%25-green) | Automatically estimate long-run effects with a dynamic two-way fixed effects regression. |
 | [`xtdfet`](https://github.com/rthombs/xtdfet) | ![Version](https://img.shields.io/badge/-90%25-brightgreen) | Estimate a dynamic fixed effects regression with time interactions |
