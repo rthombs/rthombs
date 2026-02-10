@@ -6,6 +6,7 @@ Here you will find links to my published software programs and those that are cu
 ## Published Packages
 |Package|Version|Last Updated|Description|
 | :---: |  :---:  |  :---:  | ----- |
+| [`xthpj`](https://github.com/rthombs/xthpj) | ![Version](https://img.shields.io/badge/version-2.0-blue\?style=for-the-badge) | 12/20/25 | High dimensional half‐panel jackknife fixed‐effects estimator |
 | [`lrplot`](https://github.com/rthombs/lrplot) | ![Version](https://img.shields.io/badge/version-1.0-blue\?style=for-the-badge) | 5/11/24 | Plot effects after estimating an autoregressive distributed lag (ARDL) model. |
 | [`lreff`](https://github.com/rthombs/lreff) | ![Version](https://img.shields.io/badge/version-1.0-blue\?style=for-the-badge) | 12/9/22 | Compute long-run effects after estimating a dynamic model. |
 | [`xtasysum`](https://github.com/rthombs/xtasysum) | ![Version](https://img.shields.io/badge/version-1.2-blue\?style=for-the-badge) | 7/21/22 | Generate, summarize, and visualize partial sums for modeling asymmetry with panel data. |
